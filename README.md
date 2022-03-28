@@ -9,5 +9,6 @@
 * Step 6 - Execute the command `cd ...\py_call_matlab\` in your cmd, then `python main.py`.
 * If cmd shows "Hello World.", it means your setup is successfully.
 
-***Notice: this code only works when your python and MATLAB can independently***
-***Notice: If you do not open cmd as an administrator, there may be a permission error ***
+***Notice 1: this code only works when your python and MATLAB can independently***
+
+***Notice 2: If you do not open cmd as an administrator, there may be a permission error ***
